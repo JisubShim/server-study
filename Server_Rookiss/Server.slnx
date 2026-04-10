@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DummyClient/DummyClient.csproj" Id="7cf6551b-ca78-4274-bece-3b9d78c8b978" />
+  <Project Path="Server/Server.csproj" />
+  <Project Path="ServerCore/ServerCore.csproj" Id="f4ebdf87-af17-48f7-be6b-f87fb288cb26" />
+</Solution>
